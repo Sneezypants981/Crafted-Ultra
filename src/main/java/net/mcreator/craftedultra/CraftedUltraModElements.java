@@ -45,6 +45,8 @@ public class CraftedUltraModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public CraftedUltraModElements() {
+		sounds.put(new ResourceLocation("crafted_ultra", "holystone"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("crafted_ultra", "holystone")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("crafted_ultra").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

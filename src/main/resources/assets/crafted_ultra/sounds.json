@@ -1,1 +1,11 @@
-{}
+{
+  "holystone": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "crafted_ultra:phantom_sage_-_holystone",
+        "stream": true
+      }
+    ]
+  }
+}

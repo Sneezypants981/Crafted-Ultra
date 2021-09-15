@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "pixil-frame-0_4",
+    "name": "Music Disc",
+    "description": "Phantom Sage - Holystone",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:holystone"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

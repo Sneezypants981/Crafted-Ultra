@@ -1,10 +1,33 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Holystone",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holystone"
+    }
+  ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "holystone",
+      "files": [
+        "phantom_sage_-_holystone"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.crafted_ultra.holystone.desc": "Phantom Sage - Holystone",
+      "subtitles.holystone": "",
+      "item.crafted_ultra.holystone": "Music Disc"
+    }
   },
   "foldersRoot": {
     "name": "~",
