@@ -1,0 +1,13 @@
+{
+  "group": "crafted_ultra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crafted_ultra:cyanowood_planks"
+    }
+  ],
+  "result": {
+    "item": "crafted_ultra:cyanowood_button",
+    "count": 1
+  }
+}

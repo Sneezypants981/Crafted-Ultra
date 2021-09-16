@@ -10,15 +10,15 @@
       "value": "Blocks.DIRT#0"
     },
     "grassColor": {
-      "value": -987480891,
+      "value": -16756280,
       "falpha": 0.0
     },
     "waterColor": {
-      "value": -981001495,
+      "value": -11058795,
       "falpha": 0.0
     },
     "waterFogColor": {
-      "value": -987561893,
+      "value": -16745537,
       "falpha": 0.0
     },
     "ambientSound": {
@@ -36,7 +36,7 @@
     "moodSoundDelay": 6000,
     "spawnParticles": true,
     "particleToSpawn": {
-      "value": "DRIPPING_OBSIDIAN_TEAR"
+      "value": "WARPED_SPORE"
     },
     "particlesProbability": 0.5,
     "biomeCategory": "FOREST",
@@ -60,22 +60,22 @@
     "gravelPatchesPerChunk": 0,
     "reedsPerChunk": 0,
     "cactiPerChunk": 0,
-    "treesPerChunk": 1,
-    "vanillaTreeType": "Big trees",
+    "treesPerChunk": 7,
+    "vanillaTreeType": "Default",
     "treeType": 1,
     "minHeight": 7,
     "maxWaterDepth": 0,
     "treeStem": {
-      "value": "CUSTOM:Cyanowood_Wood_PackLog"
+      "value": "CUSTOM:CyanowoodLog"
     },
     "treeBranch": {
-      "value": "CUSTOM:Cyanowood_Wood_PackLeaves"
+      "value": "CUSTOM:CyanowoodLeaves"
     },
     "treeVines": {
       "value": "Blocks.AIR"
     },
     "treeFruits": {
-      "value": ""
+      "value": "Blocks.AIR"
     },
     "spawnStronghold": false,
     "spawnMineshaft": false,
@@ -91,35 +91,25 @@
     "defaultFeatures": [
       "Caves",
       "Ores",
-      "FrozenTopLayer",
-      "Fossils"
+      "FrozenTopLayer"
     ],
     "spawnEntries": [
-      {
-        "entity": {
-          "value": "EntityRabbit"
-        },
-        "minGroup": 4,
-        "maxGroup": 7,
-        "weight": 20,
-        "spawnType": "creature"
-      },
-      {
-        "entity": {
-          "value": "EntityIronGolem"
-        },
-        "minGroup": 1,
-        "maxGroup": 1,
-        "weight": 2,
-        "spawnType": "creature"
-      },
       {
         "entity": {
           "value": "EntityCaveSpider"
         },
         "minGroup": 2,
-        "maxGroup": 3,
+        "maxGroup": 6,
         "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityVex"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 5,
         "spawnType": "monster"
       }
     ]

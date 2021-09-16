@@ -11,184 +11,184 @@
       "registry_name": "holystone"
     },
     {
-      "name": "Cyanowood_Wood_PackWood",
+      "name": "CyanowoodWood",
       "type": "block",
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_wood"
+      "registry_name": "cyanowood_wood"
     },
     {
-      "name": "Cyanowood_Wood_PackLog",
+      "name": "CyanowoodLog",
       "type": "block",
       "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_log"
+      "registry_name": "cyanowood_log"
     },
     {
-      "name": "Cyanowood_Wood_PackPlanks",
+      "name": "CyanowoodPlanks",
       "type": "block",
       "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_planks"
+      "registry_name": "cyanowood_planks"
     },
     {
-      "name": "Cyanowood_Wood_PackLeaves",
+      "name": "CyanowoodLeaves",
       "type": "block",
       "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_leaves"
+      "registry_name": "cyanowood_leaves"
     },
     {
-      "name": "Cyanowood_Wood_PackStairs",
+      "name": "CyanowoodStairs",
       "type": "block",
       "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_stairs"
+      "registry_name": "cyanowood_stairs"
     },
     {
-      "name": "Cyanowood_Wood_PackSlab",
+      "name": "CyanowoodSlab",
       "type": "block",
       "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_slab"
+      "registry_name": "cyanowood_slab"
     },
     {
-      "name": "Cyanowood_Wood_PackFence",
+      "name": "CyanowoodFence",
       "type": "block",
       "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_fence"
+      "registry_name": "cyanowood_fence"
     },
     {
-      "name": "Cyanowood_Wood_PackFenceGate",
+      "name": "CyanowoodFenceGate",
       "type": "block",
       "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_fence_gate"
+      "registry_name": "cyanowood_fence_gate"
     },
     {
-      "name": "Cyanowood_Wood_PackPressurePlate",
+      "name": "CyanowoodPressurePlate",
       "type": "block",
       "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_pressure_plate"
+      "registry_name": "cyanowood_pressure_plate"
     },
     {
-      "name": "Cyanowood_Wood_PackButton",
+      "name": "CyanowoodButton",
       "type": "block",
       "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_button"
+      "registry_name": "cyanowood_button"
     },
     {
-      "name": "Cyanowood_Wood_PackItemsTag",
+      "name": "CyanowoodItemsTag",
       "type": "tag",
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_items_tag"
+      "registry_name": "cyanowood_items_tag"
     },
     {
-      "name": "Cyanowood_Wood_PackWoodRecipe",
+      "name": "CyanowoodWoodRecipe",
       "type": "recipe",
       "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_wood_recipe"
+      "registry_name": "cyanowood_wood_recipe"
     },
     {
-      "name": "Cyanowood_Wood_PackPlanksRecipe",
+      "name": "CyanowoodPlanksRecipe",
       "type": "recipe",
       "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_planks_recipe"
+      "registry_name": "cyanowood_planks_recipe"
     },
     {
-      "name": "Cyanowood_Wood_PackStairsRecipe",
+      "name": "CyanowoodStairsRecipe",
       "type": "recipe",
       "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_stairs_recipe"
+      "registry_name": "cyanowood_stairs_recipe"
     },
     {
-      "name": "Cyanowood_Wood_PackSlabRecipe",
+      "name": "CyanowoodSlabRecipe",
       "type": "recipe",
       "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_slab_recipe"
+      "registry_name": "cyanowood_slab_recipe"
     },
     {
-      "name": "Cyanowood_Wood_PackFenceRecipe",
+      "name": "CyanowoodFenceRecipe",
       "type": "recipe",
       "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_fence_recipe"
+      "registry_name": "cyanowood_fence_recipe"
     },
     {
-      "name": "Cyanowood_Wood_PackFenceGateRecipe",
+      "name": "CyanowoodFenceGateRecipe",
       "type": "recipe",
       "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_fence_gate_recipe"
+      "registry_name": "cyanowood_fence_gate_recipe"
     },
     {
-      "name": "Cyanowood_Wood_PackPressurePlateRecipe",
+      "name": "CyanowoodPressurePlateRecipe",
       "type": "recipe",
       "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_pressure_plate_recipe"
+      "registry_name": "cyanowood_pressure_plate_recipe"
     },
     {
-      "name": "Cyanowood_Wood_PackButtonRecipe",
+      "name": "CyanowoodButtonRecipe",
       "type": "recipe",
       "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_button_recipe"
+      "registry_name": "cyanowood_button_recipe"
     },
     {
-      "name": "Cyanowood_Wood_PackStickRecipe",
+      "name": "CyanowoodStickRecipe",
       "type": "recipe",
       "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cyanowood_wood_pack_stick_recipe"
+      "registry_name": "cyanowood_stick_recipe"
     },
     {
       "name": "BlueForest",
@@ -213,20 +213,20 @@
   ],
   "language_map": {
     "en_us": {
-      "block.crafted_ultra.cyanowood_wood_pack_wood": "Cyanowood_Wood_Pack Wood",
-      "block.crafted_ultra.cyanowood_wood_pack_button": "Cyanowood_Wood_Pack Button",
-      "block.crafted_ultra.cyanowood_wood_pack_planks": "Cyanowood_Wood_Pack Planks",
-      "block.crafted_ultra.cyanowood_wood_pack_fence": "Cyanowood_Wood_Pack Fence",
-      "block.crafted_ultra.cyanowood_wood_pack_fence_gate": "Cyanowood_Wood_Pack Fence Gate",
-      "block.crafted_ultra.cyanowood_wood_pack_pressure_plate": "Cyanowood_Wood_Pack Pressure Plate",
+      "block.crafted_ultra.cyanowood_wood": "Cyanowood Wood",
+      "block.crafted_ultra.cyanowood_button": "Cyanowood Button",
+      "block.crafted_ultra.cyanowood_leaves": "Cyanowood Leaves",
       "subtitles.holystone": "",
-      "block.crafted_ultra.cyanowood_wood_pack_leaves": "Cyanowood_Wood_Pack Leaves",
+      "block.crafted_ultra.cyanowood_planks": "Cyanowood Planks",
+      "block.crafted_ultra.cyanowood_fence_gate": "Cyanowood Fence Gate",
       "item.crafted_ultra.holystone": "Music Disc",
       "item.crafted_ultra.holystone.desc": "Phantom Sage - Holystone",
-      "biome.crafted_ultra.blue_forest": "Blue Forest",
-      "block.crafted_ultra.cyanowood_wood_pack_log": "Cyanowood_Wood_Pack Log",
-      "block.crafted_ultra.cyanowood_wood_pack_stairs": "Cyanowood_Wood_Pack Stairs",
-      "block.crafted_ultra.cyanowood_wood_pack_slab": "Cyanowood_Wood_Pack Slab"
+      "block.crafted_ultra.cyanowood_fence": "Cyanowood Fence",
+      "block.crafted_ultra.cyanowood_stairs": "Cyanowood Stairs",
+      "block.crafted_ultra.cyanowood_slab": "Cyanowood Slab",
+      "block.crafted_ultra.cyanowood_pressure_plate": "Cyanowood Pressure Plate",
+      "block.crafted_ultra.cyanowood_log": "Cyanowood Log",
+      "biome.crafted_ultra.blue_forest": "Blue Forest"
     }
   },
   "foldersRoot": {

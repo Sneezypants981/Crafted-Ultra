@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CyanowoodWood"
+      },
+      {
+        "value": "CUSTOM:CyanowoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "cyanowood_log",
+    "namespace": "forge"
+  }
+}

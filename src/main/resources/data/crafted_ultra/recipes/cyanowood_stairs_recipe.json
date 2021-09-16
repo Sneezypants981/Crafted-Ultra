@@ -1,0 +1,33 @@
+{
+  "group": "crafted_ultra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crafted_ultra:cyanowood_planks"
+    },
+    "3": {
+      "item": "crafted_ultra:cyanowood_planks"
+    },
+    "4": {
+      "item": "crafted_ultra:cyanowood_planks"
+    },
+    "6": {
+      "item": "crafted_ultra:cyanowood_planks"
+    },
+    "7": {
+      "item": "crafted_ultra:cyanowood_planks"
+    },
+    "8": {
+      "item": "crafted_ultra:cyanowood_planks"
+    }
+  },
+  "result": {
+    "item": "crafted_ultra:cyanowood_stairs",
+    "count": 4
+  }
+}
