@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "crafted_ultra:block/cyanowood_wood_pack_slab"
+    },
+    "type=top": {
+      "model": "crafted_ultra:block/cyanowood_wood_pack_slab_top"
+    },
+    "type=double": {
+      "model": "crafted_ultra:block/cyanowood_wood_pack_slab_full"
+    }
+  }
+}

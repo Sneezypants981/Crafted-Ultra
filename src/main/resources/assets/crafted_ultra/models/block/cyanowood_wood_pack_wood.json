@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "crafted_ultra:blocks/cyanowood_wood_pack_log_side",
+    "particle": "crafted_ultra:blocks/cyanowood_wood_pack_log_side"
+  }
+}

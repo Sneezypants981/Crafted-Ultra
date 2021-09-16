@@ -1,5 +1,16 @@
 {
-  "item.crafted_ultra.holystone.desc": "Phantom Sage - Holystone",
+  "block.crafted_ultra.cyanowood_wood_pack_wood": "Cyanowood_Wood_Pack Wood",
+  "block.crafted_ultra.cyanowood_wood_pack_button": "Cyanowood_Wood_Pack Button",
+  "block.crafted_ultra.cyanowood_wood_pack_planks": "Cyanowood_Wood_Pack Planks",
+  "block.crafted_ultra.cyanowood_wood_pack_fence": "Cyanowood_Wood_Pack Fence",
+  "block.crafted_ultra.cyanowood_wood_pack_fence_gate": "Cyanowood_Wood_Pack Fence Gate",
+  "block.crafted_ultra.cyanowood_wood_pack_pressure_plate": "Cyanowood_Wood_Pack Pressure Plate",
   "subtitles.holystone": "",
-  "item.crafted_ultra.holystone": "Music Disc"
+  "block.crafted_ultra.cyanowood_wood_pack_leaves": "Cyanowood_Wood_Pack Leaves",
+  "item.crafted_ultra.holystone": "Music Disc",
+  "item.crafted_ultra.holystone.desc": "Phantom Sage - Holystone",
+  "biome.crafted_ultra.blue_forest": "Blue Forest",
+  "block.crafted_ultra.cyanowood_wood_pack_log": "Cyanowood_Wood_Pack Log",
+  "block.crafted_ultra.cyanowood_wood_pack_stairs": "Cyanowood_Wood_Pack Stairs",
+  "block.crafted_ultra.cyanowood_wood_pack_slab": "Cyanowood_Wood_Pack Slab"
 }

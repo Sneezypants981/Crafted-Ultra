@@ -1,0 +1,13 @@
+{
+  "group": "crafted_ultra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:cyanowood_wood_pack_log"
+    }
+  ],
+  "result": {
+    "item": "crafted_ultra:cyanowood_wood_pack_planks",
+    "count": 4
+  }
+}

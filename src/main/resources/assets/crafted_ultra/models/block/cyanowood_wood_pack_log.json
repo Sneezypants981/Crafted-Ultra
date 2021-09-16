@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crafted_ultra:blocks/cyanowood_wood_pack_log_top",
+    "up": "crafted_ultra:blocks/cyanowood_wood_pack_log_top",
+    "north": "crafted_ultra:blocks/cyanowood_wood_pack_log_side",
+    "east": "crafted_ultra:blocks/cyanowood_wood_pack_log_side",
+    "south": "crafted_ultra:blocks/cyanowood_wood_pack_log_side",
+    "west": "crafted_ultra:blocks/cyanowood_wood_pack_log_side",
+    "particle": "crafted_ultra:blocks/cyanowood_wood_pack_log_top"
+  }
+}

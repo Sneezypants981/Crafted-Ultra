@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "crafted_ultra:blocks/cyanowood_wood_pack_planks",
+    "particle": "crafted_ultra:blocks/cyanowood_wood_pack_planks"
+  }
+}

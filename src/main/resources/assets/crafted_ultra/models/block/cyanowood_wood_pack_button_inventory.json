@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "crafted_ultra:blocks/cyanowood_wood_pack_planks"
+  }
+}

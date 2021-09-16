@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "crafted_ultra:block/cyanowood_wood_pack_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "crafted_ultra:block/cyanowood_wood_pack_log"
+    },
+    "axis=z": {
+      "model": "crafted_ultra:block/cyanowood_wood_pack_log",
+      "x": 90
+    }
+  }
+}

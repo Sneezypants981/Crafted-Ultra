@@ -1,0 +1,26 @@
+{
+  "group": "crafted_ultra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "crafted_ultra:cyanowood_wood_pack_log"
+    },
+    "1": {
+      "item": "crafted_ultra:cyanowood_wood_pack_log"
+    },
+    "2": {
+      "item": "crafted_ultra:cyanowood_wood_pack_log"
+    },
+    "3": {
+      "item": "crafted_ultra:cyanowood_wood_pack_log"
+    }
+  },
+  "result": {
+    "item": "crafted_ultra:cyanowood_wood_pack_wood",
+    "count": 3
+  }
+}
