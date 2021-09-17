@@ -1,9 +1,11 @@
 {
   "block.crafted_ultra.cyanowood_wood": "Cyanowood Wood",
   "block.crafted_ultra.cyanowood_button": "Cyanowood Button",
+  "item.crafted_ultra.blue_ent_baby_stage_4_spawn_egg": "Blue Ent Baby Spawn Egg",
   "block.crafted_ultra.cyanowood_leaves": "Cyanowood Leaves",
   "subtitles.holystone": "",
   "block.crafted_ultra.cyanowood_planks": "Cyanowood Planks",
+  "entity.crafted_ultra.blue_ent_baby_stage_4": "Blue Ent Baby",
   "block.crafted_ultra.cyanowood_fence_gate": "Cyanowood Fence Gate",
   "item.crafted_ultra.holystone": "Music Disc",
   "item.crafted_ultra.holystone.desc": "Phantom Sage - Holystone",
